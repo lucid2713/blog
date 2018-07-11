@@ -1,0 +1,71 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Mina's blog
+email: lucid2713@gmail.com
+description: Mina's scribbles, writing, ideation, and so on.
+url: https://lucid2713.github.io/blog # the base hostname & protocol for your site
+keywords: ["Art", "Technology"]
+# keywords:
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone: Europe/Amsterdam
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: <!--more-->
+permalink: /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+incremental: true
+
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Mina
+  avatar: logo.png
+  job: "vitamina"
+  bio: "Exploring art and technology to play better."
+  email: lucid2713@gmail.com
+  disqus-shortname: renyuanzblog
+  twitter:  #username
+  facebook: mina.kim.vitamina
+  google:
+    plus: #username
+    analytics: UA-62251910-2
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: lucid2713 #username
+  stackoverflow: #123456/username
+  linkedin: mina-kim-66b849156 #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: mina-vitamina
+  weibo: #username
+  flickr: #username
+  codepen: #username
+  telegram: #username

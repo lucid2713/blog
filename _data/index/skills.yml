@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: GitHub/Jekyll, MaxMSP, Processing, OpenFrameworks, Raspberry Pi, Arduino, HTML/CSS
+percentage: 70, 60, 50, 30, 30, 80, 70

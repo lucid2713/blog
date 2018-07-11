@@ -1,0 +1,7 @@
+_site
+.sass-cache
+/.bundle/ruby/
+_drafts
+.ruby-version
+.DS_Store
+.jekyll-metadata

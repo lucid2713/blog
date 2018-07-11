@@ -1,0 +1,11 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: Coder’s High(co.)
+  link: https://www.facebook.com/codershighteam/
+  date: Dec. 2016 - Jun. 2017
+  job: Workbook design & editing Part-time
+
+- name: Climate Change Center(CCC)
+  link: http://www.climatechangecenter.kr
+  date: Jul. 2012
+  job: Internship
