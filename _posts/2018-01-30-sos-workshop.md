@@ -5,7 +5,7 @@ excerpt: "self-quantification workshop with physical computing by TeZ Maurizio M
 tags: [Tez]
 categories: [workshop]
 modified: 2018-07-11
-comments: true
+
 ---
 
 From 10th t0 12th Jan, 2018, my colleagues and I had participated physical computing workshop dealing with measurement sensors. For the outcome of 3days workshop, I made a fake, cheesy deceptive visual interface interacting with heartbeat sensor.

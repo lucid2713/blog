@@ -4,7 +4,6 @@ title:  "Electricity Matters, workshop at STEIM by Nataliya Petkova"
 excerpt: "Participating 4days analog circuit instrument making workshop"
 categories: [workshop]
 tags: [STEIM]
-comments: true
 
 ---
 

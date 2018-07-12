@@ -5,7 +5,7 @@ excerpt: "Individual theoretical project on ‘Art & Media Theory’ course in F
 tags: [blockchain]
 categories: [research]
 link: https://drive.google.com/file/d/1mf6pXC1YJPKVgZwbJkF7MrlL-B6zeGVH/view
-comments: true
+
 
 ---
 
