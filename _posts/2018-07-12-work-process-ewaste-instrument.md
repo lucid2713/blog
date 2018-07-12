@@ -1,11 +1,10 @@
 ---
 layout: post
-title: E-waste instrument : work process
-excerpt: ""
+title: Work process of E-waste instrument
+excerpt: "traces"
 tags: [e-waste, instrument]
 categories: [work]
-image:
-  feature: sample-image-2.jpg
+
 ---
 
 

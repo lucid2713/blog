@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finishing my first semester in FMI
-excerpt: ""
+excerpt: "looking back"
 tags: []
 categories: [work]
 
