@@ -1,19 +1,21 @@
 ---
 layout: post
-title:  "Electricity Matters, workshop at STEIM by Nataliya Petkova"
-excerpt: "Participating 4days analog circuit instrument making workshop"
+title:  "Electricity Matters workshop"
+excerpt: "Analog circuit instrument making workshop at STEIM by Nataliya Petkova"
 categories: [workshop]
 tags: [STEIM]
+modified: 2018-07-12
 
 ---
+![Smithsonian Image]({{ site.url }}/img/electricitymatters5.png)
+<br>
 
-Electricity Matters workshop at Instruments Make Play festival, Amsterdam, 12.2017
+4 days intensive workshop 'Electricity Matters' during Instruments Make Play festival, Amsterdam, 12.2017
 
-![Smithsonian Image]({{ site.url }}/img/electronic01.jpg)
-{: .pull-right}
 
-![Smithsonian Image]({{ site.url }}/img/electronic02.jpg)
-{: .pull-right}
+![Smithsonian Image]({{ site.url }}/img/electricitymatters.gif)
 
-![Smithsonian Image]({{ site.url }}/img/electronic03.jpg)
-{: .pull-right}
+
+After the workshop, participants had performance to play our instrument at Muziekgebouw, Amsterdam, during the [Instruments Make Play festival](https://instrumentsmakeplay.nl/festival/), 3th Dec. 2017.
+
+<br><br>
