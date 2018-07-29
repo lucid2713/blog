@@ -15,12 +15,13 @@ After the workshop, on Sunday, 3th Dec, all the participants had a chance to per
 
 This workshop really drove me to work with circuit making as I started to tinker with chips and schematics more since then. But still I'm not very used to dealing with all the electricity matters, I refer to a lot the book 'Handmade Electronic Music' written by Nicolas Collins. I'm not very good in physics and electricity, so this book really helped me out a lot!
 I like the process of making even though I still struggle a lot whenever I make something with circuits. Quite often the outcome doesn't work well or doesn't look great. But during the process I could understand more about how the circuit and electricity works, and I can expand my ideas what to make and how to play with from this understanding.
+<br><br>
 
 ![My analog synth]({{ site.url }}/img/electricitymatters5.png)
-{: .pull-left}
-![My analog synth]({{ site.url }}/img/electricitymatters6.png)
-{: .pull-left}
-![My analog synth]({{ site.url }}/img/electricitymatters1.jpg)
+<br>
+![My analog synth]({{ site.url }}/img/electricitymatters6.png){: width="800px"}
+<br>
+![My analog synth]({{ site.url }}/img/electricitymatters1.jpg){: width="800px"}
 
 <br>
 My first synth has only oscillator, but has 6 different frequencies so I can play 6 kinds of sounds. There are 3 photo-resisters put inside the paper cups which have high pitch, and 3 potentiometers with low pitch.
