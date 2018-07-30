@@ -4,7 +4,7 @@ title: Work in process of e-waste research
 excerpt: "Research, Making and Performing with E-Waste"
 tags: [e-waste, instrument]
 categories: [work]
-modified: 2018-07-29
+modified: 2018-07-30
 
 ---
 
@@ -63,7 +63,13 @@ Reference - by [Jonáš Gruska](https://lom.audio/instruments/elektrosluch/), on
 <br>
 Reference - by Marco Donnarumma, [Xth sense](http://res.marcodonnarumma.com/projects/xth-sense/#intro).
 <br><br>
-![contact microphone]({{ site.url }}/img/contactmic.png){: width="800px"}
+![contact microphone]({{ site.url }}/img/contactmic2.png){: height="500px"}
+<br>
+ <p align="center">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/WTrGSBroY2k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ <br>
+ MaxMSP patcher for sound and video distortion, using contact microphone as an input.
+ </p>
 <br><br>
 
 **Analog Circuit Synthesizer**
@@ -72,12 +78,23 @@ synth - workshop, by myself  - ongoing
 Reference - The book *Handmade Electronic Music* by Nicolas collins, and workshop by Nataliya Petkova
 <br><br>
 ![analog circuit synthesizer]({{ site.url }}/img/circuit-instrument.jpg){: height="500px"}
+<br>
+ <p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/73Oq9hbwYq8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+Tryout playing with e-waste(ethernet adapter, boiler component and floppy disc)</p>
 <br><br>
 **Led Fans**
 <br><br>
 ![computer fans]({{ site.url }}/img/fans.jpg){: width="400px"}
 <br>
 ![led fans]({{ site.url }}/img/sonicwaste03.jpg){: width="800px"}
+<br><br>
+At Betontegel festival
+<br><br>
+![betontegel festival]({{ site.url }}/img/betontegel1.jpg){: width="400px"}
+<br>
+![betontegel festival]({{ site.url }}/img/betontegel2.jpg){: width="400px"}
 <br><br>
 At Shaky Grounds festival
 <br><br>
@@ -95,18 +112,23 @@ Reference - [Casper Electronics DIY synth building, Part2 Sequencers](http://www
 <br>
 ![sequencer]({{ site.url }}/img/sequencer3.png){: width="800px"}
 <br>
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vLhamLq8atU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+Finding various bleep sounds from boiler component(e-waste), using handmade sequencer.
+</p>
+<br>
 <hr>
-### Upcoming plan
-* how to develop (sequencer, field kit)
-* zine (process of work / how to)
-* design plan (handy-drum, modular ...)
-* material for instrument's shield / box (industrial hemp)
-https://www.hanze.nl/eng/research/centre-for-applied-research/art-and-society/professorships/professorships/popular-culture-sustainability--innovation/research-projects/sustainable-materials-and-processes/hemp-design-factory
+### Upcoming plan (08.2018~)
+1. Research and Development (sequencer, field kit)
+2. Make zine (process of work / how to)
+3. Design plan (handy-drum, modular, shield...)
+4. Material for instrument's shield / box (e.g. [industrial hemp](https://www.hanze.nl/eng/research/centre-for-applied-research/art-and-society/professorships/professorships/popular-culture-sustainability--innovation/research-projects/sustainable-materials-and-processes/hemp-design-factory))
 
-* reference
-* other artists who inspired me
-Diana band
-Taeyoon Choi
-Nadja Buttendorf
-Yuri Suziki
-Antoine bertin
+<br>
+##### Other artists who inspired me
+* [Diana band](http://dianaband.info/)
+* [Taeyoon Choi](http://taeyoonchoi.com/poetic-computation/handmade-computers/handmade-computer/)
+* [Nadja Buttendorf](http://nadjabuttendorf.com/)
+* [Yuri Suzuki](http://yurisuzuki.com/)
+* [Antoine Bertin](http://www.antoinebertin.org/)
