@@ -24,8 +24,7 @@ The trick is, heart rate has no direct association with the personal health. Eve
 <br><br>
 
 ![exhibition footage]({{ site.url }}/img/heartbeat06.png){: width="800px"}
-<br>
-
+<p align="center">
 Setup for the Open day event of my college on 17th Feb. 2018.
-
+</p>
 <br><br>
