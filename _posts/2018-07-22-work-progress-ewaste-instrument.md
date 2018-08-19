@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Work in process of e-waste research
+title: Work in progress of e-waste research
 excerpt: "Research, Making and Performing with E-Waste"
 tags: [e-waste, instrument]
 categories: [work]
