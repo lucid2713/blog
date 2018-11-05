@@ -1,7 +1,10 @@
 _site
 .sass-cache
-/.bundle/ruby/
+.directory
+Thumbs.db
 _drafts
 .ruby-version
+/.bundle/ruby/
 .DS_Store
 .jekyll-metadata
+Gemfile.lock
