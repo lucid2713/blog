@@ -9,6 +9,11 @@ categories: [work, exhibition, performance]
 
 *to be uploaded*
 <br><br>
+<br>
+Forking Room: Your Smart Neighborhood, PostTerritoryUjeongguk, Seoul, South Korea, 01-04.Nov.2018
+<br>
+exhibition(research project of [Unmake Lab](http://www.unmakelab.org/) at Ujeongguk, Seoul, Korea
+<br><br>
 Terzetto, SIGN, Groningen, Netherlands, 03-25.Nov.2018
 <br>
 my exhibition at gallery SIGN
