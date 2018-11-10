@@ -18,7 +18,7 @@ Terzetto, SIGN, Groningen, Netherlands, 03-25.Nov.2018
 <br>
 my exhibition at gallery SIGN
 <br><br>
-TutTotTud(A European audio & art exhibition), Grand Theatre, Groningen, Netherlands, 12-13.Nov.2018
+TutTotTud, Grand Theatre, Groningen, Netherlands, 12-13.Nov.2018
 <br>
 performance with Lucija as [Fruit From the Forest](https://fruitfromtheforest.com)
 <br><br>
