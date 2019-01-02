@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exhibition and Performances in fall 2018
-excerpt: "Exhibition at SIGN, Performances of Fruit From the Forest"
+excerpt: "Exhibition and Performances of my work in progress, playful obsolescence"
 tags: [E-waste, SIGN, TutTotTud, Fruit From the Forest, WORM, Unmake Lab]
 categories: [work, exhibition, performance]
 modified: 2019-01-02
