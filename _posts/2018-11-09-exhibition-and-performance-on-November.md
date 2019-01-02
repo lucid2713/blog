@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exhibition and Performances in fall 2018
+title: Exhibitions and Performances in fall 2018
 excerpt: "Exhibition and Performances of my work in progress, playful obsolescence"
 tags: [E-waste, SIGN, TutTotTud, Fruit From the Forest, WORM, Unmake Lab]
 categories: [work, exhibition, performance]
@@ -49,7 +49,7 @@ opening performance, SIGN gallery, 9th Nov.
 ### Performance and Presentation
 
 #### Performance at TutTotTud festival
-As [Fruit From the Forest](https://fruitfromtheforest.com), I had a performance at [Tut Tot Tud festival](https://www.tuttottud.com/), together with Lucija. Like as we did at opening of exhibition Terzetto, I played my e-waste instruments with live video, and Lucija played her cello and some digital pieces she made.
+As [Fruit From the Forest](https://fruitfromtheforest.com), I had a performance at [Tut Tot Tud festival](https://www.tuttottud.com/), together with Lucija. Like as we did at opening of exhibition Terzetto, I played my e-waste instruments with live video, and Lucija played her cello and some digital pieces made by herself.
 <br>
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fom82mC99Wg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -60,9 +60,9 @@ video by [Hannes Anderson](http://handersson.net/)
 <br><br>
 
 #### Presentation at Instruments Make Play Fair
-I participated [Instruments Make Play Fair](https://instrumentsmakeplay.nl/8-december-2018-instruments-make-play-fair-in-worm-rotterdam/) on 8th December. Last year's instruments make fair festival, I joined a workshop(analog synthesizer building by Nataliya Petkova at STEIM, Amsterdam), but this year I was there as an instrument builder!
+I participated [Instruments Make Play Fair](https://instrumentsmakeplay.nl/8-december-2018-instruments-make-play-fair-in-worm-rotterdam/) on 8th December. Last year's instruments make fair festival, I joined a workshop(about making analog synthesizer by Nataliya Petkova at STEIM, Amsterdam), but this year I was there as an instrument builder!
 <br>
-During the fair, I gave a short presentation and performance on my work. There were lots of interesting self-made instruments made by awesome artists and makers. And I had really good time in there, meeting and having conversation with visitors as well as other artists.
+During the fair, I gave a short presentation and performance on my work. There were lots of interesting self-made instruments made by awesome artists and makers. And I had really good time in there, meeting and having conversation with visitors as well as other instrument builders.
 <br><br>
 ![instruments make play fair footage]({{site.url}}/img/instrumentsmakeplayfair_footage.png){: width="800px"}
 <br>
