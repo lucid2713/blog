@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exhibitions and Performances in fall 2018
-excerpt: "Exhibition and Performances of my work in progress, playful obsolescence"
+excerpt: "Exhibitions and Performances of my work in progress, playful obsolescence"
 tags: [E-waste, SIGN, TutTotTud, Fruit From the Forest, WORM, Unmake Lab]
 categories: [work, exhibition, performance]
 modified: 2019-01-02
@@ -17,7 +17,7 @@ I had 2 group exhibitions with my work in progress 'Playful Obsolescence' on Nov
 #### Exhibition Forking Room:Your Smart Neighborhood
 The Exhibition [Forking Room: Your Smart Neighborhood](http://ujeongguk.com/forking-room/) was held by [Unmake Lab](http://www.unmakelab.org/) as a research project. The theme of forking room is associated with today's society, technology and art. This year's forking room consisted of exhibition, talk, lecture and workshop. I participated the exhibition as one of artists with the video documentation of my e-waste instrument.
 <br><br>
-![forking room poster]({{site.url}}/img/forkingroom_footage.png){: height="400px"}
+![forking room footage]({{site.url}}/img/forkingroom_footage.png){: height="400px"}
 <br>
 photos by Unmake Lab
 <br>
