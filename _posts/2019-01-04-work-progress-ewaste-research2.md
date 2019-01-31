@@ -40,6 +40,9 @@ Therefore I would like to dive into the theme of ‘electronic waste’ to revea
 [^2]: Lauwaert, M. & Westrenen, F. (2017). *Facing Value*. Valiz.
 [^3]: Bauman, Z. (2008). *Wasted Lives*(쓰레기가 되는 삶들 - trans in Korean). 정일준 옮김. Saemulgyul Publishing House.
 
+![value_drawing]({{site.url}}/img/value_drawing.JPG){: width="800px"}
+<br><br>
+
 ##### Structure
 My work is based on 3 axes: **Reserach**, **Making(creating)**, and **Performance**.
 <br>
