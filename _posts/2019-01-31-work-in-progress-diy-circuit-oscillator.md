@@ -101,8 +101,8 @@ NAND gate oscillator
 cd40106 and cd4051 with e-waste
 <br><br>
 <audio controls>
-	<source src="/audio/cd40106,cd4051.mp3" type="audio/mpeg">
-	<source src="/audio/cd40106,cd4051.ogg" type="audio/ogg">
+	<source src="https://raw.githubusercontent.com/lucid2713/blog/master/audio/cd40106,cd4051.mp3" type="audio/mpeg">
+	<source src="https://raw.githubusercontent.com/lucid2713/blog/master/audio/cd40106,cd4051.ogg" type="audio/ogg">
 	Your browser does not support the audio tag.
 </audio>
 </p>
