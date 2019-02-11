@@ -87,11 +87,26 @@ NAND gate oscillator
 #### cd 4051
 <br>
 *(description & videos)*
-
+<p align="center">
 8 ways analog switch
-<br><br>
+</p>
 ![cd4051 with cd4040 and cd40106]({{site.url}}/img/sequencer_cd4051_cd4040_cd40106.JPG){: width="800px"}
 
 ![cd4051 with cd4040 and cd40106 with leds]({{site.url}}/img/sequencer_with_leds.JPG){: width="800px"}
+
+
+<br><br>
+##### non synchronized sounds
+<p align="center">
+cd40106 and cd4051 with e-waste
+<br><br>
+<audio controls>
+	<source src="/audio/cd40106,cd4051.mp3" type="audio/mpeg">
+	<source src="/audio/cd40106,cd4051.ogg" type="audio/ogg">
+	Your browser does not support the audio tag.
+</audio>
+</p>
+
+![cd4051 with cd40106]({{site.url}}/img/cd40106,cd4051.JPG){: width="800px"}
 
 <br><br><br>
