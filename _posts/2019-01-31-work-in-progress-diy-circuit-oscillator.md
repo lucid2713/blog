@@ -128,11 +128,12 @@ cd4040(frequency divider) with cd4093
 <br>
 <br>
 
-#### cd 4051<br>
+#### cd 4051
+<br>
 _(description & videos)_
 
 <p align="center">
-8 ways analog switch
+8 ways analog switch (cd40106, cd4040, and cd4051)
 </p>
 
 ![cd4051 with cd4040 and cd40106]({{site.url}}/img/sequencer_cd4051_cd4040_cd40106.JPG){: width="800px"} ![cd4051 with cd4040 and cd40106 with leds]({{site.url}}/img/sequencer_with_leds.JPG){: width="800px"}
@@ -160,9 +161,18 @@ cd40106 and cd4051 with e-waste
 <br>
 <br>
 
-### cd4069
+#### cd4069
 _(description & videos)_
 
+
+<br><br>
+<hr>
+
+#### Reference
+
+- [Noise hackerspace](https://noisehackerspace.com/amazing-lunetta-synth-simple-diy-quad-nand-cmos/)
+- [Hackaday, 'logic noise' series](https://hackaday.com/2015/02/04/logic-noise-sweet-sweet-oscillator-sounds/)
+- [Bastl instruments, DIY synth tutorials](https://bastl-instruments.com/support/tutorials/omsynth-project-2)
 <br>
 <br>
 <br>
