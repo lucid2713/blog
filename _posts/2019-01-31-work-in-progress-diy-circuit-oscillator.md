@@ -89,6 +89,15 @@ _(description & videos)_
 <br>
 <br>
 ![cd4093_drawing]({{site.url}}/img/cd4093_drawing.jpg){: width="800px"}
+
+<p align = "center">
+cd4093 with e-waste(using resistor and capacitor)
+<audio controls="">
+<source src="https://raw.githubusercontent.com/lucid2713/blog/master/audio/cd4093_with_e-waste.mp3" type="audio/mpeg">
+    Your browser does not support the audio tag.
+</audio>
+</p>
+
 <br>
 <br>
 
