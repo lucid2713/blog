@@ -80,6 +80,9 @@ ready to be connected!
 _(description & videos)_
 
 ![circuit with cd40106, cd4093, and cd4049]({{site.url}}/img/cd40106_4093_4049.png){: width="800px"}
+
+The picture above is a circuit instrument combined with cd40106, cd4093 and cd4049, which was made by myself last year. I connect e-waste by using alligator clips on top of this circuit board(on the little clips). It was used for my work ['sonic waste'](http://mina-vitamina.net/sonic-waste) and ['playful obsolescence'](http://mina-vitamina.net/playful-obsolescence). And I've been playing it at several performances; [shaky grounds festival](https://www.youtube.com/watch?v=APx7oDdLYCg), [gallery sign](https://www.youtube.com/watch?v=reulvS8F-fg) and [tuttottud](https://www.youtube.com/watch?v=Fom82mC99Wg).
+
 <br>
 <br>
 
@@ -89,6 +92,10 @@ _(description & videos)_
 <br>
 <br>
 ![cd4093_drawing]({{site.url}}/img/cd4093_drawing.jpg){: width="800px"}
+<p align = "center">
+cd4093 schematics
+</p>
+
 
 <p align = "center">
 cd4093 with e-waste(using resistor and capacitor)
