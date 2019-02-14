@@ -142,6 +142,8 @@ _(description & videos)_
 
 ##### non synchronized sounds
 
+When the schmitt trigger(e.g. cd40106) is directly connected to the cd4051(sequencer) without the same resistors to make the sounds synchronized, it makes very messy dissonant sounds.
+
 ![cd4051 with cd40106]({{site.url}}/img/cd40106,cd4051.JPG){: width="800px"}
 
 <p align="center">
@@ -162,10 +164,40 @@ cd40106 and cd4051 with e-waste
 <br>
 
 #### cd4069
-_(description & videos)_
 
+cd4069 chip has much more smoother sounds as it is 'buffered' and has triangle wave.
+
+![cd4069 with cd40106]({{site.url}}/img/cd4069,cd40106.JPG){: height="500px"}
+
+<p align="center">
+cd40106 and cd4069 with e-waste
+<br>
+<br>
+
+<audio controls="">
+<source src="https://raw.githubusercontent.com/lucid2713/blog/master/audio/cd4069,cd40106_with_e-waste.mp3" type="audio/mpeg">
+    Your browser does not support the audio tag.
+</audio>
+</p>
 
 <br><br>
+
+#### Play all together!
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wJkMtNKQ2Oo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+Improvised play with 4 different circuits and e-waste
+</p>
+
+<br>
+from below to upper
+* n1. cd40106 + cd4040 + cd4051 + e-waste<br>
+* n2. cd40106 + cd4051 + e-waste<br>
+* n3. cd40106 + cd4069 + e-waste<br>
+* n4. cd4093 + cd4040 + e-waste<br>
+
+<br>
 <hr>
 
 #### Reference
