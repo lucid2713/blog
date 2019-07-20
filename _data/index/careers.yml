@@ -1,9 +1,25 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name: Fruit From the Forest
+  link: https://fruitfromtheforest.com/
+  date: Apr. 2018 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Auduovisual artist
+
 - name: Coder’s High(co.)
   link: https://www.facebook.com/codershighteam/
   date: Dec. 2016 - Jun. 2017
   job: Workbook design & editing Part-time
+
+- name: Cre8s (Media Art Club at SNU)
+  link:
+  date: Jan. 2016 - Dec. 2016
+  job: Creator/Artist
+
+- name: Private Tutor
+  link:
+  date: Mar. 2012 - Dec. 2016
+  job: Part-time private tutor (teaching English and Math for middle/secondaty school students)
 
 - name: Climate Change Center(CCC)
   link: http://www.climatechangecenter.kr

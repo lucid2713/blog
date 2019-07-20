@@ -1,7 +1,7 @@
 - name: Frank Mohr Institute, Academie Minerva
   link: http://fmi.academieminerva.nl/
-  date: 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  descr: <br> (expected graduation in 2019)
+  date: 2017 - 2019
+  # descr: <br> (expected graduation in 2019)
 
 - name: School of Machines, Making & Make-believe
   link: http://schoolofma.org/
@@ -10,3 +10,5 @@
 - name: Seoul National University
   link: http://en.snu.ac.kr/
   date: 2011 - 2016
+
+  # <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
