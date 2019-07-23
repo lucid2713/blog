@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub/Jekyll, MaxMSP, Processing(P5.js), OpenFrameworks, Raspberry Pi, Arduino, HTML/CSS
-percentage: 70, 75, 60, 30, 30, 70, 80
+aspects: GitHub/Jekyll, MaxMSP, Processing(P5.js), Web development(front-end), Arduino, HTML/CSS
+percentage: 70, 75, 60, 50, 70, 80
