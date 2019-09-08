@@ -1,6 +1,10 @@
+- name: Gogbot festival 2019
+  descr: "Enschede, Netherlands, 5-8.Sep.2019"
+  website: https://2019.gogbot.nl/
+
 - name: (Un)formed, Graduation show Academie Minerva
   descr: "Suikerfabriek, Groningen, Netherlands, 22-27.Jun.2019"
-  website: 
+  website:
 
 - name: Stukafest
   descr: "Groningen, Netherlands, 28.Feb.2019"
