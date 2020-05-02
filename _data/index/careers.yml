@@ -1,5 +1,14 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: RE:Discovery - artistic research program by NP3 Gallery
+  link: http://www.np3.nu/?p=2703
+  date: Mar. 2020 - Nov. 2020
+  job: Artist/Researcher
+
+- name: RE#SISTER
+  link: https://re-sister.nl
+  date: Feb. 2019 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Member(artist)
 
 - name: Fruit From the Forest
   link: https://fruitfromtheforest.com/
