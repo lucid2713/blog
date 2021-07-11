@@ -4,7 +4,7 @@
 ####################################
 #
 title: Mina's blog
-email: lucid2713@gmail.com
+email: mina.vitamina@posteo.net
 description: Mina's scribbles, writing, ideation, and so on.
 url: https://lucid2713.github.io/blog # the base hostname & protocol for your site
 keywords: ["Art", "Technology"]
@@ -41,13 +41,13 @@ owner:
   avatar: logo.png
   job: "vitamina"
   bio: "Exploring art and technology to play better."
-  email: lucid2713@gmail.com
+  email: mina.vitamina@posteo.net
   disqus-shortname: renyuanzblog
   twitter:  #username
   facebook: mina.kim.vitamina
   google:
     plus: #username
-    analytics: 
+    analytics:
     verify:
     ad-client:
     ad-slot:
